@@ -4,12 +4,12 @@ import { HomeComponent } from '@src/app/home/home.component';
 
 export const routes: Routes = [
   {
-      path: '',
+      path: 'players',
       redirectTo: '/players',
       pathMatch: 'full',
   },
   {
-      path: 'home',
+      path: '',
       component: HomeComponent,
   },
 ];
