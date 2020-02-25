@@ -4,8 +4,8 @@ import { HomeComponent } from '@src/app/home/home.component';
 
 export const routes: Routes = [
   {
-      path: 'players',
-      redirectTo: '/players',
+      path: 'destinations',
+      redirectTo: '/destinations',
       pathMatch: 'full',
   },
   {

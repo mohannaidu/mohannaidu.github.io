@@ -5,7 +5,7 @@ import { AppRoutingModule } from '@src/app/app-routing.module';
 import { AppComponent } from '@src/app/app.component';
 import { HomeComponent } from '@src/app/home/home.component';
 
-import { BarcelonaModule } from '@src/app/barcelona/barcelona.module';
+import { TravelModule } from '@src/app/travel/travel.module';
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
 // import { NativeScriptFormsModule } from 'nativescript-angular/forms';
@@ -21,7 +21,7 @@ import { BarcelonaModule } from '@src/app/barcelona/barcelona.module';
   imports: [
     NativeScriptModule,
     AppRoutingModule,
-    BarcelonaModule,
+    TravelModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
