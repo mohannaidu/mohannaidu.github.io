@@ -12,7 +12,7 @@ import { NgModule } from '@angular/core';
   ],
 })
 export class HomeComponent implements OnInit {
-  title = 'Malaysia Story';
+  subtitle = 'An audio guided travel';
 
   constructor() { }
 
