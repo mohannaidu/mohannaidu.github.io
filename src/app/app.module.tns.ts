@@ -6,6 +6,9 @@ import { AppComponent } from '@src/app/app.component';
 import { HomeComponent } from '@src/app/home/home.component';
 
 import { TravelModule } from '@src/app/travel/travel.module';
+import { HeaderComponent } from '@src/app/components/header/header.component';
+import { FooterComponent } from '@src/app/components/footer/footer.component';
+
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
 // import { NativeScriptFormsModule } from 'nativescript-angular/forms';
@@ -17,6 +20,8 @@ import { TravelModule } from '@src/app/travel/travel.module';
   declarations: [
     AppComponent,
     HomeComponent,
+    HeaderComponent,
+    FooterComponent,
   ],
   imports: [
     NativeScriptModule,
