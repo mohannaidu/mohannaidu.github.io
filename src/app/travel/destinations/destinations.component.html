@@ -1,0 +1,5 @@
+<h1>Places of Interest</h1>
+
+<div *ngFor="let destination of destinations" [routerLink]="['/destination', destination.id]">
+  <h3>{{ destination.name }}</h3>
+</div>

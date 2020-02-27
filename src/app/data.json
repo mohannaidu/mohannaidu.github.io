@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Petronas Twin Towers",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 2,
+        "name": "Batu Caves",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 3,
+        "name": "KL Tower",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 4,
+        "name": "Genting",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 5,
+        "name": "Petaling Street",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 6,
+        "name": "Jalan Alor",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 7,
+        "name": "Central Market",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 8,
+        "name": "Botanical Garden",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 9,
+        "name": "Merdeka Garden",
+        "role": "Goalkeeper"
+    },
+    {
+        "id": 10,
+        "name": "Sunway Lagoon",
+        "role": "Goalkeeper"
+    }
+]

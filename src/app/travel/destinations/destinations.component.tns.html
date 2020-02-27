@@ -1,0 +1,11 @@
+<ActionBar title="Destinations" class="action-bar">
+</ActionBar>
+
+<GridLayout class="page">
+  <ListView [items]="destinations" class="list-group">
+    <ng-template let-destination="item">
+      <Label [nsRouterLink]="['/destination', destination.id]" [text]="destination.name"
+      class="list-group-item"></Label>
+    </ng-template>
+  </ListView>
+</GridLayout>
