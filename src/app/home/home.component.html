@@ -3,9 +3,9 @@
 
   <mat-card-header>
     <!-- <mat-card-title>{{ subtitle }}</mat-card-title> -->
-    <mat-card-subtitle>{{ subtitle }}</mat-card-subtitle>
+    <!-- <mat-card-subtitle>{{ subtitle }}</mat-card-subtitle> -->
   </mat-card-header>
-  <img mat-card-image alt="Visit Malaysia" src="assets/image/visit.jpg">
+  <img mat-card-image alt="Visit Malaysia" src="assets/image/logo.jpg">
   <mat-card-content>
     <p>
       To know Malaysia is to love Malaysia - a bubbling, bustling melting-pot of races and religions where Malays, Indians,
@@ -15,11 +15,8 @@
   </mat-card-content>
 </mat-card>
 
-<h2>Destinations </h2>
-<ul>
-  <li>
-    <h2><a routerLink="/destinations">Destinations</a></h2>
-  </li>
-  
-</ul> 
+<!-- <h1 class="mat-display-1">Destinations </h1> -->
+
+<button mat-raised-button color="primary" class="button" [routerLink]="['/destinations']">Places of Interest</button>
+
 

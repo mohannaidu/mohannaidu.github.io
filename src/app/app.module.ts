@@ -9,6 +9,7 @@ import { TravelModule } from '@src/app/travel/travel.module';
 import {MatCardModule} from '@angular/material/card';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
+import {MatButtonModule} from '@angular/material/button';
 import { HeaderComponent } from '@src/app/components/header/header.component';
 import { FooterComponent } from '@src/app/components/footer/footer.component';
 
@@ -26,6 +27,7 @@ import { FooterComponent } from '@src/app/components/footer/footer.component';
     MatCardModule,
     MatToolbarModule,
     MatIconModule,
+    MatButtonModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
