@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 
 import {
-  componentDeclarations,
+ // componentDeclarations,
   providerDeclarations,
   routes,
 } from './travel.common';
@@ -17,7 +17,7 @@ import {
     RouterModule
   ],
   declarations: [
-    ...componentDeclarations
+ //   ...componentDeclarations
   ],
   providers: [
     ...providerDeclarations

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { NgModule } from '@angular/core';
 
 import { Destination } from '@src/app/travel/destination.model';
 import { DestinationService } from '@src/app/travel/destination.service';

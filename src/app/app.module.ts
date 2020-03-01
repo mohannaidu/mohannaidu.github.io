@@ -15,15 +15,22 @@ import { FooterComponent } from '@src/app/components/footer/footer.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 
+import {
+  componentDeclarations
+} from './travel/travel.common';
+
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     HeaderComponent,
     FooterComponent,
+    componentDeclarations
   ],
   imports: [
     BrowserModule,
+    // DestinationsComponent,
+    // DestinationDetailComponent,
     AppRoutingModule,
     TravelModule,
     MatCardModule,
