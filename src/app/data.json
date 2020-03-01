@@ -3,60 +3,80 @@
         "id": 1,
         "name": "Petronas Twin Towers",
         "description": "Soaring to a height of 451.9 metres, the 88-storey twin structure is Kuala Lumpur's crown jewel. Majestic by day and dazzling at night, the PETRONAS Twin Towers is inspired by Tun Mahathir Mohamad's vision for Malaysia to be a global player. Together with master architect Cesar Pelli, the international icon powerfully captures the nation's ambitions and aspirations.",
-        "image": "./assets/image/klcc.jpg"
+        "image": "./assets/image/klcc.jpg",
+        "lat": 3.1579,
+        "lng": 101.7120
     },
     {
         "id": 2,
         "name": "Batu Caves",
         "description": "Batu Caves is a an iconic and popular tourist attraction in Selangor. Site of a Hindu temple and shrine, Batu Caves attracts thousands of worshippers and tourists, especially during the annual Hindu festival, Thaipusam. A limestone outcrop located just north of Kuala Lumpur, Batu Caves has three main caves featuring temples and Hindu shrines. Its main attraction is the large statue of the Hindu God at the entrance, besides a steep 272 climb up its steps to finally view the stunning skyline of the city centre.",
-        "image": "./assets/image/batu_caves.jpg"
+        "image": "./assets/image/batu_caves.jpg",
+        "lat": 3.2379,
+        "lng": 101.6840
     },
     {
         "id": 3,
         "name": "KL Tower",
         "description": "Sitting on top of Bukit Nanas at a height of 421m, the tower is one of the city's most popular landmarks. The world's seventh tallest telecommunications tower also comes with an observation deck at 276m above ground level and a revolving restaurant where you can enjoy a 360° view of the city's skyline while enjoying a meal. The tower is located within the Bukit Nanas Forest Reserve, one of the oldest forest reserves in the country, making it the only tower in the world located within a forest.",
-        "image": "./assets/image/kl_tower.jpg"
+        "image": "./assets/image/kl_tower.jpg",
+        "lat": 3.1528,
+        "lng": 101.7038
     },
     {
         "id": 4,
         "name": "Genting",
         "description": "Perched on top of Ulu Kali Mountain at some 1,800m above sea level, Genting Highlands is a one-stop hill resort with hotels, theme parks, a casino and a number of entertainment, dining and retail options. Its cool climate and close proximity to Kuala Lumpur – approximately an hour's drive – make it a popular highland getaway among city folks. Genting Highlands is also Malaysia's only licensed on-land gambling spot.",
-        "image": "./assets/image/genting.jpg"
+        "image": "./assets/image/genting.jpg",
+        "lat": 3.4240,
+        "lng": 101.7932
     },
     {
         "id": 5,
         "name": "Petaling Street",
         "description": "Petaling Street, the centre of Kuala Lumpur's original Chinatown, maintains much of its traditional atmosphere, particularly at night when vendors fan out their merchandise along the street. While you can shop for anything from gems and incense to toys and t-shirts, the true allure of this night market is in wandering about and enjoying its sights, sounds and energy. Food is plentiful with many scrumptious varieties to choose from; some of the restaurants here have been in business for generations. ",
-        "image": "./assets/image/petaling_street.jpg"
+        "image": "./assets/image/petaling_street.jpg",
+        "lat": 3.1428,
+        "lng": 101.6969
     },
     {
         "id": 6,
         "name": "Jalan Alor",
         "description": "Located in the heart of Kuala Lumpur, Jalan Alor is one of Malaysia's most popular food haunts. Relatively quiet during the day, the street is transformed into a bustling outdoor food court when the sun goes down. Hawkers fire up their woks as hungry customers start piling in, sitting on makeshift tables and chairs lined by the roadside.",
-        "image": "./assets/image/jalan_alor.jpg"
+        "image": "./assets/image/jalan_alor.jpg",
+        "lat": 3.145681,
+        "lng": 101.708638
     },
     {
         "id": 7,
         "name": "Central Market",
         "description": "The building was built in 1888 and originally functioned as a wet market. It has since been classified as a Heritage Site. Tourists flock to Central Market for its variety of handicrafts, art, kebaya, songket, batik and authentic Malaysian souvenirs. A Batik Emporium houses well-known designer labels, with the best Malaysian-made batik items ranging from clothes, shoes, bags to home furnishing.",
-        "image": "./assets/image/central_market.jpg"
+        "image": "./assets/image/central_market.jpg",
+        "lat": 3.1457,
+        "lng": 101.6955
     },
     {
         "id": 8,
         "name": "Botanical Garden",
         "description": "Perdana Botanical Gardens, formerly Perdana Lake Gardens, Lake Gardens and Public Gardens, is Kuala Lumpur's first large-scale recreational park. Measuring 91.6 hectares, it is located in the heart of the city and established in 1888. The park served as place of refuge from the hustle and bustle of the city during colonial times. It contains large sculpted and manicured gardens and a host of attractions.",
-        "image": "./assets/image/botanical_garden.jpg"
+        "image": "./assets/image/botanical_garden.jpg",
+        "lat": 3.1430,
+        "lng": 101.6847
     },
     {
         "id": 9,
         "name": "Merdeka Square",
         "description": "Merdeka Square is undoubtedly KL’s best known landmark. Also called Dataran Merdeka, it is set in front of the Sultan Abdul Samad Building (the former State Secretariat). Directly in front is the Royal Selangor Club and to the north is St. Mary’s Church, one of Malaysia’s oldest Anglican churches.",
-        "image": "./assets/image/merdeka_square.jpg"
+        "image": "./assets/image/merdeka_square.jpg",
+        "lat": 3.1493,
+        "lng": 101.6937
     },
     {
         "id": 10,
         "name": "Sunway Lagoon",
         "description": "Sunway Lagoon is a theme park which  has the largest wave pool in the world has an impressive 139,800 square feet pool area where guests can surf on. It also has the world’s largest man-made beach to complete the entire surf/beach experience.",
-        "image": "./assets/image/sunway_lagoon.jpg"
+        "image": "./assets/image/sunway_lagoon.jpg",
+        "lat": 3.0715,
+        "lng": 101.6053
     }
 ]
