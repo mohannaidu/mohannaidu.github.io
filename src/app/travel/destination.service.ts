@@ -9,7 +9,7 @@ export class DestinationService {
 
   constructor() {
     this.destinations = Array.of(JSON.parse(JSON.stringify(data)))[0].default;
-    console.log(this.destinations);
+   //console.log(this.destinations);
   }
 
 

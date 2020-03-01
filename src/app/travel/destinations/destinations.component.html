@@ -1,5 +1,15 @@
-<h1>Places of Interest</h1>
+<!-- <h1>Places of Interest</h1> -->
+<div class="search-div"> 
+  <mat-form-field class="example-full-width">
+    <mat-label>Search</mat-label>
+    <textarea matInput placeholder=""></textarea>
+  </mat-form-field>
+  <button mat-mini-fab>
+    <mat-icon>search</mat-icon>
+  </button>
 
+</div>
 <div *ngFor="let destination of destinations" [routerLink]="['/destination', destination.id]">
   <h3>{{ destination.name }}</h3>
+  <mat-divider></mat-divider>
 </div>

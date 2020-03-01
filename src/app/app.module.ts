@@ -10,6 +10,9 @@ import {MatCardModule} from '@angular/material/card';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
+import {MatDividerModule} from '@angular/material/divider';
+import {MatInputModule} from '@angular/material/input';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from '@src/app/components/header/header.component';
 import { FooterComponent } from '@src/app/components/footer/footer.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
@@ -29,13 +32,14 @@ import {
   ],
   imports: [
     BrowserModule,
-    // DestinationsComponent,
-    // DestinationDetailComponent,
+    BrowserAnimationsModule,
+    MatDividerModule,
     AppRoutingModule,
     TravelModule,
     MatCardModule,
     MatToolbarModule,
     MatIconModule,
+    MatInputModule,
     MatButtonModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
   ],
