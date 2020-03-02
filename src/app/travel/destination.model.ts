@@ -7,4 +7,5 @@ export interface Destination {
   image: string;  
   lat: number;
   lng: number;
+  audio: string;
 }

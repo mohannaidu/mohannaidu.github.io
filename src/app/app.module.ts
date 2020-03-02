@@ -13,6 +13,7 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatDividerModule} from '@angular/material/divider';
 import {MatInputModule} from '@angular/material/input';
 import {MatMenuModule} from '@angular/material/menu';
+import {MatExpansionModule} from '@angular/material/expansion';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from '@src/app/components/header/header.component';
 import { FooterComponent } from '@src/app/components/footer/footer.component';
@@ -39,6 +40,7 @@ import {
     TravelModule,
     MatCardModule,
     MatToolbarModule,
+    MatExpansionModule,
     MatMenuModule,
     MatIconModule,
     MatInputModule,
