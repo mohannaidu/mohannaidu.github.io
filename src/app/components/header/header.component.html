@@ -2,7 +2,21 @@
 <mat-toolbar-row>
       <a mat-button routerLink="">Malaysia Story</a>
       <span class="header-spacer"></span>
-      <mat-icon class="material-icons header-icon" aria-hidden="false" aria-label="Example heart icon">favorite</mat-icon>
-      <mat-icon class="material-icons header-icon" aria-hidden="false" aria-label="Example delete icon">delete</mat-icon>
+      <button mat-button [matMenuTriggerFor]="menu">
+         <mat-icon class="material-icons header-icon" aria-hidden="false">donut_large</mat-icon>
+         en
+      </button>
+      <mat-menu #menu="matMenu">
+         <button mat-menu-item>
+            <mat-icon class="material-icons header-icon" aria-hidden="false">donut_large</mat-icon>
+            en
+         </button>
+         <button mat-menu-item>
+            <mat-icon class="material-icons header-icon" aria-hidden="false">donut_large</mat-icon>
+            ch
+         </button>
+      </mat-menu>
+      <!-- <mat-icon class="material-icons header-icon" aria-hidden="false" aria-label="Example heart icon">favorite</mat-icon>
+      <mat-icon class="material-icons header-icon" aria-hidden="false" aria-label="Example delete icon">delete</mat-icon> -->
    </mat-toolbar-row>
 </mat-toolbar>
