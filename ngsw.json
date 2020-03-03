@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1583157102301,
+  "timestamp": 1583240667904,
   "index": "/tour/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/tour/favicon.ico",
         "/tour/index.html",
-        "/tour/main.3aa3f248cd41f858a319.js",
+        "/tour/main.6a42747e77e9858c63f6.js",
         "/tour/manifest.webmanifest",
         "/tour/polyfills-es5.f1461d18ea31c2c621be.js",
         "/tour/polyfills.face80e22d4e446b284c.js",
@@ -82,6 +82,7 @@
         "/tour/assets/image/maxcloud_logo.png",
         "/tour/assets/image/merdeka_square.jpg",
         "/tour/assets/image/petaling_street.jpg",
+        "/tour/assets/image/splash_logo.png",
         "/tour/assets/image/sunway_lagoon.jpg",
         "/tour/assets/image/visit.jpg"
       ],
@@ -148,12 +149,13 @@
     "/tour/assets/image/maxcloud_logo.png": "15f5f07aa4f06afc9d7f4777d322ee11c3fa8bb7",
     "/tour/assets/image/merdeka_square.jpg": "f8789e209d1bec4b37285a01810cd8611db0b0e7",
     "/tour/assets/image/petaling_street.jpg": "c0ec0a9d90c0649c5c5d3ba288609ce9733378d0",
+    "/tour/assets/image/splash_logo.png": "bac42fb6046cd5ab61ee4fc9ddb325f552de2db9",
     "/tour/assets/image/sunway_lagoon.jpg": "f734173a5d809a17c30de8423bc4d98ec96676cf",
     "/tour/assets/image/visit.jpg": "485c71ede0370e5b618e895fc865caa0b9d3e6ca",
     "/tour/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/tour/index.html": "49d8875daccec124ea538816361f5ebb1b7ad5d1",
-    "/tour/main.3aa3f248cd41f858a319.js": "72894dd349447dbbf086e374e0577eec0cf19cac",
-    "/tour/manifest.webmanifest": "833d2a4e32a8c15c09bb5fc6f759719277dba0c0",
+    "/tour/index.html": "d013dbac809029c23171d17e278bae2d7c11ce71",
+    "/tour/main.6a42747e77e9858c63f6.js": "1465bc62e8b8e3a04011738d8aa70e43a2a40a59",
+    "/tour/manifest.webmanifest": "d46d22e71990fef8107c62e1a4dd0fca26f01823",
     "/tour/polyfills-es5.f1461d18ea31c2c621be.js": "c7381df7dae452ab425b48e55da83b8e640c2622",
     "/tour/polyfills.face80e22d4e446b284c.js": "fefca68f06f25dad9235933f4a26dc1055d066d2",
     "/tour/runtime.458556a34b891ea32398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
